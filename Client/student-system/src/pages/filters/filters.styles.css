@@ -1,0 +1,44 @@
+.filters__page{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.display-filter-form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.filter-title{
+    margin-top: 8vh;
+    font-size: 32px;
+    font-family: Inter-Light;
+    font-weight: 900;
+}
+
+.filter-subtitle{
+    font-size: 24px;
+    font-family: Inter-Light;
+    margin-top: 2%;
+    margin-bottom: 8vh;
+}
+
+.filter-scroller{
+    width: 80%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items:flex-end;
+}
+
+.particular__filter__title{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}

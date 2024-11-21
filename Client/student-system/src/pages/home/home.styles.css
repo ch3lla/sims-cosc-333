@@ -1,0 +1,45 @@
+.home {
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-title{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-title-main{
+    font-size: 32px;
+    line-height: 50px;
+    font-family: Inter-Light;
+    font-weight: 900;
+}
+.home-rdiagram{
+    font-size: 22px;
+    font-weight: bold;
+
+}
+.home-rdiagram a{
+    text-decoration: none;
+    color: rgba(37, 122, 240, 0.854);
+}
+
+.home-img{
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    margin-right: 60px;
+}
+
+.home-img img{
+    height: 100%;
+    width: 100%;
+}

@@ -1,0 +1,26 @@
+.select_field{
+    height: 15%;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.select_form{
+    width: 100%;
+    height: 100%;
+}   
+.select_label{
+    font-family: Inter-Regular;
+    font-size: 14px;
+    line-height: 36px;
+}
+.select_input{
+    width: 100%;
+    height: 40px;
+    border-radius: 8px;
+    padding: 8px;
+    border: 0.25px solid rgb(178, 177, 177, 0.5);
+    resize: none;
+    outline: none;
+}
